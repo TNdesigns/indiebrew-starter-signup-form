@@ -1,0 +1,1197 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    overflow-x: hidden;
+}
+.section1{
+    background:linear-gradient(150deg, rgba(240, 206, 243), rgba(253, 243, 237));
+    height:815px;
+    position: relative;
+    top:-25px;
+}
+img[src="images/Feed Mockup.png"]{
+    height: 200px;
+    width: 200px;
+}
+img[src="images/Logo.svg"]{
+    position: relative;
+    top: 40px;
+    left: 90px;
+}
+.prc{
+    position: relative;
+    top: 30px;
+    left: 810px;
+    text-decoration: none;
+    font-family: "DM Sans";
+    color:black;
+}
+.spprt{
+    position: relative;
+    top: 30px;
+    left: 835px;
+    text-decoration: none;
+    font-family: "DM Sans";
+    color:black;
+}
+#btn{
+    position:relative;
+    top: 30px;
+    left: 860px;
+    height: 60px;
+    width: 250px;
+    background-color:rgba(103, 76, 247);
+    border:none;
+    font-family: "DM Sans";
+    font-size: 17px;
+    border-radius: 5px;
+    color:white;
+}
+.section1 > h1{
+    font-family: "DM Sans";
+    position: relative;
+    top: 250px;
+    left: 92px;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: 1px;
+}
+.p1{
+    position: relative;
+    top: 270px;
+    left: 92px;
+    font-family: "DM Sans";
+    font-size:18.5px;
+    margin-right:770px;
+}
+#btn2{
+    position: relative;
+    top: 280px;
+    left: 92px;
+    height: 60px;
+    width: 240px;
+    background-color:rgba(103, 76, 247);
+    border:none;
+    font-family: "DM Sans";
+    font-size: 17px;
+    border-radius: 5px;
+    color:white;
+}
+img[src="images/User Avatars.svg"]{
+    position: relative;
+    top: 370px;
+    left: -150px;
+}
+.p2{
+    position: relative;
+    top: 365px;
+    left: 92px;
+    font-family: "DM Sans";
+}
+.section1 > p > span{
+    color:blue;
+}
+img[src="images/Feed Mockup.png"]{
+    height: 570px;
+    width: 690px;
+    position: relative;
+    top: -135px;
+    left: 680px;
+}
+img[src="images/Social Media Icons.png"]{
+    height:180px;
+    width: 400px;
+    position: relative;
+    top: -75px;
+    left: 750px;
+}
+.section2 > h1{
+    font-family: "DM Sans";
+    font-size: 40px;
+    font-weight: 500;
+    margin-right: 800px;
+    letter-spacing: 1px;
+    position: relative;
+    top: 70px;
+    left: 92px;
+}
+.pt1{
+    font-family: "DM Sans";
+    font-size: 19px;
+    margin-right: 810px;
+    position: relative;
+    top: 80px;
+    left: 92px;
+}
+.link{
+    font-family: "DM Sans";
+    font-size: 19px;
+    position: relative;
+    top: -390px;
+    left: 92px;
+    text-decoration: none;
+    color: blue;
+}
+img[src="images/Phone Mockup.png"]{
+    height:500px;
+    width:490px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+.section2 > .h1-p{
+    position: relative;
+    top: -350px;
+    left: 710px;
+    margin-right: 900px;
+}
+.pt2{
+    font-family: "DM Sans";
+    font-size: 19px;
+    position: relative;
+    top: -340px;
+    left: 710px;
+    margin-right: 810px;
+}
+.link2{
+    font-family: "DM Sans";
+    font-size: 19px;
+    position: relative;
+    top: -330px;
+    left: 710px;
+    text-decoration: none;
+    color: blue;
+}
+.ftr-links{
+    background-color: rgb(248, 243, 227);
+    height:300px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.indiebrew > h5{
+    font-family: "DM Sans";
+    font-size: 22px;
+}
+.indiebrew > p{
+    font-family: "DM Sans";
+    font-size: 18px;
+    margin-right: 680px;
+    position: relative;
+    top: 10px;
+}
+.indiebrew{
+    position: relative;
+    top: -25px;
+    left: 80px;
+}
+.sitemap > h5{
+    font-family: "DM Sans";
+    font-size: 22px;
+}
+.sitemap > a{
+    font-family: "DM Sans";
+    font-size: 18px;
+    color:black;
+    text-decoration: none;
+    font-weight: 300;
+}
+.sitemap{
+    position: relative;
+    top: -36px;
+    left: -370px;
+    line-height: 35px;
+}
+.resources > h5{
+    font-family: "DM Sans";
+    font-size: 22px;
+    text-decoration: none;
+    color:black;
+    
+}
+.resources > a{
+    font-family: "DM Sans";
+    font-size: 18px;
+    text-decoration: none;
+    color:black;
+    font-weight:300;
+}
+.resources{
+    position: relative;
+    top: -18px;
+    left: -270px;
+    line-height: 35px;
+}
+.company > h5{
+    font-family: "DM Sans";
+    font-size: 22px;
+    text-decoration: none;
+    color:black;
+    
+}
+.company > a{
+    font-family: "DM Sans";
+    font-size: 18px;
+    text-decoration: none;
+    color:black;
+    font-weight:300;
+}
+.company{
+    position: relative;
+    top: -18px;
+    left: -170px;
+    line-height: 35px;
+}
+.portfolios > h5{
+    font-family: "DM Sans";
+    font-size: 22px;
+    text-decoration: none;
+    color:black;
+    
+}
+.portfolios > a{
+    font-family: "DM Sans";
+    font-size: 18px;
+    text-decoration: none;
+    color:black;
+    font-weight:300;
+}
+.portfolios{
+    position: relative;
+    top: -18px;
+    left: -70px;
+    line-height: 35px;
+}
+.lve{
+    margin-top: 20px;
+}
+#signup-bx{
+    height: 900px;
+    width: 1440px;
+    background-color: rgb(245, 214, 245);
+    position: relative;
+    top: -810px;
+    left: 0px;
+    visibility: hidden;
+      
+}
+#signup-bx > .bx-img{
+    position: relative;
+    top: 10px;
+    left: 150px;
+}
+#bck{
+    font-family: "DM Sans";
+    position: relative;
+    top: -35px;
+    left: 1000px;
+    color:black;
+    font-weight: 500;
+    font-size: 18px;
+    border: none;
+    background: none;
+}
+.arw-bkgrnd{
+    background-color: rgb(253, 246, 250);
+    height:35px;
+    width:35px;
+    position: relative;
+    top: 94px;
+    left: -52px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    border-radius: 5px;
+}
+.arrow{
+    font-size: 50px;
+    position: relative;
+    top: 40px;
+    left: -113px;
+    /*text-align: center;*/
+    
+}
+.bx-h1{
+    font-family: "DM Sans";
+    margin-right: 1000px;
+    font-weight: 500;
+    font-size: 35px;
+    letter-spacing: 1px;
+    position:relative;
+    top:105px;
+    left:150px;
+}
+.list{
+    position: relative;
+    top: 120px;
+    left: 170px;
+    
+}
+.list > b{
+    position: relative;
+    top: 0px;
+    left: -20px;
+}
+.list > p{
+    margin-right: 1070px;
+    line-height: 24px;
+    position: relative;
+    top: -23px;
+    left:10px;
+    font-family: "DM Sans";
+}
+.input-boxes{
+    height:590px;
+    width:520px;
+    background-color: white;
+    position: relative;
+    top:-350px;
+    left: 790px;
+    border-radius: 10px;
+}
+.input-boxes > h1{
+    font-family: "DM Sans";
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    position: relative;
+    top: 40px;
+    left: 60px;
+}
+label[for="email"],
+label[for="name"],
+label[for="password"]{
+    font-family: "DM Sans";
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    top: 55px;
+    left: 60px;
+    line-height: 50px;
+}
+input[id="email"],
+input[id="name"],
+input[id="password"]{
+    height: 47px;
+    width: 400px;
+    border-bottom-color: grey;
+    border-right-color:grey;
+    border-width: 1px;
+    border-radius: 5px;
+    position: relative;
+    top: 45px;
+    left: 60px;
+    text-indent: 10px;
+}
+input[type="checkbox"]{
+    position:relative;
+    top:50px;
+    left:60px;
+}
+.input-boxes > p{
+    font-family: "DM Sans";
+    margin-right: 170px;
+    position: relative;
+    top: 30px;
+    left: 82px;
+}
+span{
+    color:blue;
+    text-decoration: underline;
+}
+#signupbx-btn{
+    height:40px;
+    width:400px;
+    position: relative;
+    top: 40px;
+    left: 60px;
+    border-radius: 7px;
+    background-color: rgb(35, 0, 231);
+    color:white;
+    font-family: "DM Sans";
+    font-size: 15px;
+    
+}
+.section2{
+    height:0px;
+}
+#btn:hover,
+#btn2:hover{
+    cursor: pointer;
+}
+#bck:hover{
+    cursor: pointer;
+}
+#etxt1,
+#etxt2,
+#etxt3{
+    position: relative;
+    top: 50px;
+    left: 70px;
+    font-size: 13px;
+    color:crimson;
+    opacity: 0;
+    font-style: italic;
+}
+#etxt4{
+    position: relative;
+    top: 30px;
+    left: 70px;
+    font-size: 13px;
+    color:crimson;
+    opacity: 0;
+    font-style: italic;
+}
+#thanks-bx{
+    height: 900px;
+    width: 1440px;
+    background-color: blueviolet;
+    position: relative;
+    top: -1110px;
+    left: 0px;
+    visibility: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#thanks-bx > div > h3{
+    font-family: "DM Sans";
+    font-size: 40px;
+}
+#thanks-bx > div > p{
+    text-align: center;
+    font-family: "DM Sans";
+    font-size: 25px;
+}
+#thanks-bx > div > #clr-btn{
+    position: relative;
+    left:225px;
+    top:20px;
+    height:50px;
+    width:150px;
+    border-radius: 20px;
+    border:none;
+    font-family: "DM Sans";
+    background-color: aqua;
+    color:blueviolet;
+    font-size: 20px;
+}
+#clr-btn:hover{
+    cursor: pointer;
+}
+#signupbx-btn:hover{
+    cursor: pointer;
+}
+img[src="images/Hamburger Menu.svg"]{
+    visibility: hidden;
+}
+.link2:hover{
+    cursor: pointer;
+}
+@media screen and (min-width:300px) and (max-width:399px) {
+    html,body{
+        overflow-x: hidden;
+        
+    }
+    .section1{
+        display:block;
+        position: relative;
+        top: -13vw;
+        left:0vw;
+    }
+    img[src="images/Logo.svg"]{
+        position: relative;
+        top: 10vw;
+        left: 5vw;
+    }
+    img[src="images/Hamburger Menu.svg"]{
+        position: relative;
+        top: 10vw;
+        left: 75vw;
+        height:10vw;
+        width:10vw;
+        visibility: visible;
+        z-index: 1;
+    }
+    img[src="images/Feed Mockup.png"]{
+        position: relative;
+        top: -105vw;
+        left: 6vw;
+        height: 30%;
+        width: 80%;
+    }
+    .section1 > h1{
+        position: relative;
+        top: 72vw;
+        left: 3vw;
+        font-size: 14vw;
+        font-weight: 600;
+    }
+    .section1 > .p1{
+        position: relative;
+        top:73vw;
+        left: 4vw;
+        margin-right: 6vw;
+        font-size:4.6vw;
+        letter-spacing: 0vw;
+    }
+    #btn{
+        visibility: hidden;
+        position: relative;
+        top: 0vw;
+        left: 0vw;
+    }
+    #btn2{
+        position: relative;
+        top:76vw;
+        left: 4vw;
+    }
+    img[src="images/User Avatars.svg"]{
+        position:relative;
+        top:80vw;
+        left: 4vw;
+    }
+    .p2{
+        position: relative;
+        left: 4vw;
+        top: 80vw;
+        font-size: 4vw;
+        margin-right: 15vw;
+    }
+    .section2{
+        display: block;
+        height:0vw;
+        left:32vw;
+    }
+    img[src="images/Social Media Icons.png"]{
+        position: relative;
+        top: -67vw;
+        left: 5vw;
+        height: 45vw;
+        width: 88vw;
+    }
+    .section2 > h1{
+        position: relative;
+        top:40vw;
+        left: 4vw;
+        margin-right: 0vw;
+        font-size:10vw;
+        line-height: 12vw;
+    }
+    .pt1{
+        position: relative;
+        top: 42vw;
+        left: 4vw;
+        margin-right: 14vw;
+        font-size: 4.1vw;
+    }
+    .link{
+        position: relative;
+        top: 45vw;
+        left: 4vw;
+        font-size: 5vw;
+    }
+    img[src="images/Phone Mockup.png"]{
+        position: relative;
+        top: 10vw;
+        left: 8vw;
+        height:70vw;
+        width:75vw;
+    }
+    .section2 > .h1-p{
+        position: relative;
+        top: 25vw;
+        left: 4vw;
+        margin-right: 10vw;
+        font-size: 8vw;
+    }
+    .pt2{
+        position: relative;
+        top: 30vw;
+        left: 4vw;
+        margin-right: 12vw;
+        font-size: 4.3vw;
+    }
+    .link2{
+        position: relative;
+        top: 35vw;
+        left: 4vw;
+        font-size: 5.3vw;
+    }
+    .ftr-links{
+        height:150vw;
+        display:block;
+        top:-110vw;
+        position: relative;
+    }
+    .indiebrew > .desc{
+        margin-right: 5vw;
+        font-size: 4.5vw;
+    }
+    .indiebrew{
+        position: relative;
+        top: 5vw;
+        left: 4vw;
+    }
+    .indiebrew > .lve{
+        margin-right: 0vw;
+        
+    }
+    .sitemap{
+        position: relative;
+        top: 10vw;
+        left: 4vw;
+        
+    }
+    .resources{
+        position: relative;
+        top: -24vw;
+        left: 52vw;
+        font-size: 4.5vw;
+    }
+    .company{
+        position: relative;
+        top: -15vw;
+        left: 4vw;
+    }
+    .portfolios{
+        position: relative;
+        top: -60vw;
+        left: 52vw;
+    }
+    #signup-bx{
+        position: relative;
+        top: -230vw;
+        left: 0vw;
+        height:400vw;
+    }
+    #signup-bx > .bx-img{
+        left: 7vw;
+        top:-5vw;
+    }
+    img[src="images/Hamburger Menu.svg"]{
+        z-index: 0;
+    }
+    #bck{
+        top: -17vw;
+        left: 50vw;
+        font-size: 0px;
+    }
+    .arrow{
+        left:-14vw;
+        
+    }
+    .bx-h1{
+        top:4vw;
+        left:7vw;
+        margin-right: 290vw;
+        font-size: 9vw;
+        font-weight: 600;
+    }
+    .list{
+        top: 10vw;
+        left: 13vw;
+    }
+    .list > p{
+        margin-right: 320vw;
+        font-size:4vw;
+    }
+    .input-boxes{
+        position: relative;
+        top:10vw;
+        left:5vw;
+        width:90vw;
+    }
+    .input-boxes > h1{
+        left:9vw;
+    }
+    label[for="email"],
+    label[for="name"],
+    label[for="password"],
+    input[id="email"],
+    input[id="name"],
+    input[id="password"]{
+        left:10vw;
+    }
+    input[id="email"],
+    input[id="name"],
+    input[id="password"]{
+        width:70vw;
+    }
+    #check{
+        left:10vw;
+        top: 16.5vw;
+    }
+    .input-boxes > p{
+        top: 10vw;
+        left: 19vw;
+        margin-right: 19vw;
+    }
+    #signupbx-btn{
+        width: 80vw;
+        left: 5vw;
+        top: 10vw;
+    }
+    footer{
+        height: 10vw;
+    }
+    #thanks-bx{
+        top: -300vw;
+        left:-140vw;
+    }
+    #thanks-bx > div > h3{
+        font-size: 5.6vw;
+        
+    }
+    #thanks-bx > div > P{
+        font-size: 6vw;
+    }
+    #thanks-bx > div > #clr-btn{
+        left:25vw;
+    }
+    #thanks-bx > div{
+        top:-25vw;
+        position: relative;
+    }
+}
+@media screen and (min-width:400px) and (max-width:499px){
+    html,body{
+        overflow-x: hidden;
+        
+    }
+    .section1{
+        display:block;
+        position: relative;
+        top: -13vw;
+        left:0vw;
+    }
+    img[src="images/Logo.svg"]{
+        position: relative;
+        top: 10vw;
+        left: 5vw;
+    }
+    img[src="images/Hamburger Menu.svg"]{
+        position: relative;
+        top: 10vw;
+        left: 75vw;
+        height:10vw;
+        width:10vw;
+        visibility: visible;
+        z-index: 1;
+    }
+    img[src="images/Feed Mockup.png"]{
+        position: relative;
+        top: -89vw;
+        left: 6vw;
+        height: 30%;
+        width: 80%;
+    }
+    .section1 > h1{
+        position: relative;
+        top: 66vw;
+        left: 5vw;
+        font-size: 13vw;
+        font-weight: 600;
+        line-height: 12vw;
+    }
+    .section1 > .p1{
+        position: relative;
+        top:70vw;
+        left: 5vw;
+        margin-right: 6vw;
+        font-size:4.6vw;
+        letter-spacing: 0vw;
+    }
+    #btn{
+        visibility: hidden;
+        position: relative;
+        top: 0vw;
+        left: 0vw;
+    }
+    #btn2{
+        position: relative;
+        top:73vw;
+        left: 5vw;
+    }
+    img[src="images/User Avatars.svg"]{
+        position:relative;
+        top:76vw;
+        left: 5vw;
+    }
+    .p2{
+        position: relative;
+        left: 6vw;
+        top: 78vw;
+        font-size: 4vw;
+        margin-right: 15vw;
+    }
+    .section2{
+        display: block;
+        height:0vw;
+        left:32vw;
+    }
+    img[src="images/Social Media Icons.png"]{
+        position: relative;
+        top: -67vw;
+        left: 5vw;
+        height: 45vw;
+        width: 88vw;
+    }
+    .section2 > h1{
+        position: relative;
+        top:40vw;
+        left: 4vw;
+        margin-right: 0vw;
+        font-size:10vw;
+        line-height: 12vw;
+    }
+    .pt1{
+        position: relative;
+        top: 42vw;
+        left: 4vw;
+        margin-right: 14vw;
+        font-size: 4.1vw;
+    }
+    .link{
+        position: relative;
+        top: 45vw;
+        left: 4vw;
+        font-size: 5vw;
+    }
+    img[src="images/Phone Mockup.png"]{
+        position: relative;
+        top: 10vw;
+        left: 8vw;
+        height:70vw;
+        width:75vw;
+    }
+    .section2 > .h1-p{
+        position: relative;
+        top: 25vw;
+        left: 4vw;
+        margin-right: 10vw;
+        font-size: 8vw;
+    }
+    .pt2{
+        position: relative;
+        top: 30vw;
+        left: 4vw;
+        margin-right: 12vw;
+        font-size: 4.3vw;
+    }
+    .link2{
+        position: relative;
+        top: 35vw;
+        left: 4vw;
+        font-size: 5.3vw;
+    }
+    .ftr-links{
+        height:150vw;
+        display:block;
+        top:-110vw;
+        position: relative;
+    }
+    .indiebrew > .desc{
+        margin-right: 5vw;
+        font-size: 4.5vw;
+    }
+    .indiebrew{
+        position: relative;
+        top: 5vw;
+        left: 4vw;
+    }
+    .indiebrew > .lve{
+        margin-right: 0vw;
+        
+    }
+    .sitemap{
+        position: relative;
+        top: 10vw;
+        left: 4vw;
+        
+    }
+    .resources{
+        position: relative;
+        top: -16vw;
+        left: 52vw;
+        font-size: 4.5vw;
+    }
+    .company{
+        position: relative;
+        top: -15vw;
+        left: 4vw;
+    }
+    .portfolios{
+        position: relative;
+        top: -49vw;
+        left: 52vw;
+    }
+    #signup-bx{
+        position: relative;
+        top: -210vw;
+        left: 0vw;
+        height:400vw;
+        
+    }
+    #signup-bx > .bx-img{
+        left: 7vw;
+        top:-5vw;
+    }
+    img[src="images/Hamburger Menu.svg"]{
+        z-index: 0;
+    }
+    #bck{
+        top: -16vw;
+        left: 50vw;
+        font-size: 0px;
+    }
+    .arrow{
+        left:-12.9vw;
+        
+    }
+    .bx-h1{
+        top:4vw;
+        left:7vw;
+        margin-right: 260vw;
+        font-size: 9vw;
+        font-weight: 600;
+    }
+    .list{
+        top: 10vw;
+        left: 13vw;
+    }
+    .list > p{
+        margin-right: 277.7vw;
+        font-size:4vw;
+    }
+    .input-boxes{
+        position: relative;
+        top:10vw;
+        left:5vw;
+        width:90vw;
+    }
+    .input-boxes > h1{
+        left:9vw;
+        
+    }
+    label[for="email"],
+    label[for="name"],
+    label[for="password"],
+    input[id="email"],
+    input[id="name"],
+    input[id="password"]{
+        left:10vw;
+    }
+    input[id="email"],
+    input[id="name"],
+    input[id="password"]{
+        width:70vw;
+    }
+    #check{
+        left:10vw;
+        top: 16.5vw;
+    }
+    .input-boxes > p{
+        top: 10vw;
+        left: 19vw;
+        margin-right: 19vw;
+    }
+    #signupbx-btn{
+        width: 80vw;
+        left: 5vw;
+        top: 10vw;
+    }
+    footer{
+        height: 10vw;
+    }
+    #thanks-bx{
+        top:-260vw;
+        left:-120vw;
+    }    
+    #thanks-bx > div > h3{
+        font-size: 6vw;
+    }
+    #thanks-bx > div > #clr-btn{
+        left:25vw;
+    }
+}
+@media screen and (min-width:600px) and (max-width:1025px) {
+    html,body{
+        overflow-x: hidden;
+        
+    }
+    .section1{
+        position: relative;
+        top: -5vw;
+        left: 0vw;
+        height:135vw;
+    }
+    img[src="images/Logo.svg"]{
+        top:10vw;
+        left:7vw;
+    }
+    .section1 > .prc{
+        left:30vw;
+        top: 7.5vw;
+    }
+    .section1 > .spprt{
+        top:7.5vw;
+        left:34vw;
+    }
+    #btn{
+        top:7.5vw;
+        left:39vw;
+        width:25vw;
+    }
+    .section1 > h1{
+        top:73vw;
+        left:7vw;
+    }
+    .section1 > img[src="images/Feed Mockup.png"] {
+        top:-20vw;
+        left:18vw;
+        height: 40%;
+        width: 60%;
+    }
+    .section1 > .p1{
+        margin-right: 20vw;
+        top: 77vw;
+        left: 7vw;
+    }
+    #btn2{
+        top: 78vw;
+        left: 7vw;
+    }
+    img[src="images/User Avatars.svg"]{
+        top: 90vw;
+        left:-25vw;
+    }
+    .p2{
+        top: 88vw;
+        left: 7vw;
+    }
+    .section2{
+        top: 0vw;
+        left: 0vw;
+        
+    }
+    .section2 > h1{
+        top:3vw;
+        left:7vw;
+        margin-right: 40vw;
+        font-size: 4.6vw;
+    }
+    .section2 > .pt1{
+        top: 4vw;
+        left: 7vw;
+        margin-right: 50vw;
+    }
+    .link{
+        top:-10vw;
+        left:7vw;
+    }
+    .section2 > .icons{
+        top: -16vw;
+        left: 33vw;
+        width:35vw;
+        height:17vw;
+    }
+    img[src="images/Phone Mockup.png"]{
+        top: -5vw;
+        left: 5vw;
+        height: 43vw;
+        width: 45vw;
+    }
+    .section2 > .h1-p{
+        top: -48vw;
+        left: 50vw;
+        margin-right: 50vw;
+        font-size: 4.2vw;
+    }
+    .pt2{
+        margin-right: 55vw;
+        left: 50vw;
+        font-size: 2.7vw;
+    }
+    .link2{
+        left:50vw;
+    }
+    .ftr-links{
+        top:vw;
+        height:70vw;
+    }
+    .indiebrew{
+        top: -15vw;
+        left: 7vw;
+    }
+    .ftr-links > .indiebrew > .desc{
+        margin-right: 10vw;
+    }
+    .ftr-links > .indiebrew > .lve{
+        margin-right: 0vw;
+    }
+    .sitemap{
+        top:-18.5vw;
+        left:5vw;
+    }
+    .resources{
+        top:-16.5vw;
+        left:16vw;
+    }
+    .company{
+        top:8vw;
+        left:-20vw;
+    }
+    .portfolios{
+        top: 8vw;
+        left: -11vw;
+    }
+    #signup-bx{
+        top:-140vw;
+        left:0vw;
+        height:170vw;
+    }
+    #signup-bx > .bx-img{
+        top: 3vw;
+        left: 7vw;
+    }
+    #bck{
+        top:-3vw;
+        left:50vw;
+    }
+    .bx-h1{
+        margin-right: 0vw;
+        top:8vw;
+        left:7vw;
+    }
+    .list{
+        top:12vw;
+        left:10vw;
+    }
+    .list > p{
+        margin-right: 105vw;
+        font-size: 2.5vw;
+    }
+    #signup-bx > .input-boxes{
+        top:20vw;
+        left:5vw;
+        width:90vw;
+    }
+    input[id="email"],
+    input[id="name"],
+    input[id="password"]{
+        width:75vw;
+    }
+    #signupbx-btn{
+        width:75vw;
+    }
+    #thanks-bx{
+        top: -112vw;
+        left: -43vw;
+        height:135vw;
+    }
+}
