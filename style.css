@@ -129,7 +129,7 @@ img[src="images/Social Media Icons.png"]{
     font-family: "DM Sans";
     font-size: 19px;
     position: relative;
-    top: -390px;
+    top: -76px;
     left: 92px;
     text-decoration: none;
     color: blue;
@@ -273,7 +273,7 @@ img[src="images/Phone Mockup.png"]{
     width: 1440px;
     background-color: rgb(245, 214, 245);
     position: relative;
-    top: -810px;
+    top: -835px;
     left: 0px;
     visibility: hidden;
       
@@ -519,7 +519,7 @@ img[src="images/Hamburger Menu.svg"]{
     }
     img[src="images/Feed Mockup.png"]{
         position: relative;
-        top: -105vw;
+        top: -96vw;
         left: 6vw;
         height: 30%;
         width: 80%;
@@ -530,10 +530,11 @@ img[src="images/Hamburger Menu.svg"]{
         left: 3vw;
         font-size: 14vw;
         font-weight: 600;
+        line-height: 13vw;
     }
     .section1 > .p1{
         position: relative;
-        top:73vw;
+        top:75vw;
         left: 4vw;
         margin-right: 6vw;
         font-size:4.6vw;
@@ -547,18 +548,18 @@ img[src="images/Hamburger Menu.svg"]{
     }
     #btn2{
         position: relative;
-        top:76vw;
+        top:78vw;
         left: 4vw;
     }
     img[src="images/User Avatars.svg"]{
         position:relative;
-        top:80vw;
+        top:82vw;
         left: 4vw;
     }
     .p2{
         position: relative;
-        left: 4vw;
-        top: 80vw;
+        left: 5vw;
+        top: 84vw;
         font-size: 4vw;
         margin-right: 15vw;
     }
@@ -569,7 +570,7 @@ img[src="images/Hamburger Menu.svg"]{
     }
     img[src="images/Social Media Icons.png"]{
         position: relative;
-        top: -67vw;
+        top: -73vw;
         left: 5vw;
         height: 45vw;
         width: 88vw;
@@ -649,7 +650,7 @@ img[src="images/Hamburger Menu.svg"]{
     }
     .resources{
         position: relative;
-        top: -24vw;
+        top: -18.5vw;
         left: 52vw;
         font-size: 4.5vw;
     }
@@ -660,7 +661,7 @@ img[src="images/Hamburger Menu.svg"]{
     }
     .portfolios{
         position: relative;
-        top: -60vw;
+        top: -53.5vw;
         left: 52vw;
     }
     #signup-bx{
@@ -697,7 +698,7 @@ img[src="images/Hamburger Menu.svg"]{
         left: 13vw;
     }
     .list > p{
-        margin-right: 320vw;
+        margin-right: 307vw;
         font-size:4vw;
     }
     .input-boxes{
@@ -707,7 +708,8 @@ img[src="images/Hamburger Menu.svg"]{
         width:90vw;
     }
     .input-boxes > h1{
-        left:9vw;
+        left:10vw;
+        margin-right:10vw;
     }
     label[for="email"],
     label[for="name"],
@@ -729,7 +731,13 @@ img[src="images/Hamburger Menu.svg"]{
     .input-boxes > p{
         top: 10vw;
         left: 19vw;
-        margin-right: 19vw;
+        margin-right: 25vw;
+    }
+    #etxt3{
+        left:10vw;
+    }
+    #etxt4{
+        left:10vw;
     }
     #signupbx-btn{
         width: 80vw;
@@ -768,6 +776,7 @@ img[src="images/Hamburger Menu.svg"]{
         position: relative;
         top: -13vw;
         left:0vw;
+        height: 210vw;
     }
     img[src="images/Logo.svg"]{
         position: relative;
@@ -781,11 +790,11 @@ img[src="images/Hamburger Menu.svg"]{
         height:10vw;
         width:10vw;
         visibility: visible;
-        z-index: 1;
+        
     }
     img[src="images/Feed Mockup.png"]{
         position: relative;
-        top: -89vw;
+        top: -94vw;
         left: 6vw;
         height: 30%;
         width: 80%;
@@ -836,7 +845,7 @@ img[src="images/Hamburger Menu.svg"]{
     }
     img[src="images/Social Media Icons.png"]{
         position: relative;
-        top: -67vw;
+        top: -71vw;
         left: 5vw;
         height: 45vw;
         width: 88vw;
@@ -844,8 +853,8 @@ img[src="images/Hamburger Menu.svg"]{
     .section2 > h1{
         position: relative;
         top:40vw;
-        left: 4vw;
-        margin-right: 0vw;
+        left: 5vw;
+        margin-right: 10vw;
         font-size:10vw;
         line-height: 12vw;
     }
