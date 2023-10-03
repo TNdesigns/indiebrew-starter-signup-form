@@ -492,7 +492,7 @@ img[src="images/Hamburger Menu.svg"]{
 .link2:hover{
     cursor: pointer;
 }
-@media screen and (min-width:300px) and (max-width:399px) {
+@media only screen and (min-width:300px) and (max-width:360px) {
     html,body{
         overflow-x: hidden;
         
@@ -571,6 +571,280 @@ img[src="images/Hamburger Menu.svg"]{
     img[src="images/Social Media Icons.png"]{
         position: relative;
         top: -73vw;
+        left: 5vw;
+        height: 45vw;
+        width: 88vw;
+    }
+    .section2 > h1{
+        position: relative;
+        top:40vw;
+        left: 4vw;
+        margin-right: 0vw;
+        font-size:10vw;
+        line-height: 12vw;
+    }
+    .pt1{
+        position: relative;
+        top: 42vw;
+        left: 4vw;
+        margin-right: 14vw;
+        font-size: 4.1vw;
+    }
+    .link{
+        position: relative;
+        top: 45vw;
+        left: 4vw;
+        font-size: 5vw;
+    }
+    img[src="images/Phone Mockup.png"]{
+        position: relative;
+        top: 10vw;
+        left: 8vw;
+        height:70vw;
+        width:75vw;
+    }
+    .section2 > .h1-p{
+        position: relative;
+        top: 25vw;
+        left: 4vw;
+        margin-right: 10vw;
+        font-size: 8vw;
+    }
+    .pt2{
+        position: relative;
+        top: 30vw;
+        left: 4vw;
+        margin-right: 12vw;
+        font-size: 4.3vw;
+    }
+    .link2{
+        position: relative;
+        top: 35vw;
+        left: 4vw;
+        font-size: 5.3vw;
+    }
+    .ftr-links{
+        height:150vw;
+        display:block;
+        top:-110vw;
+        position: relative;
+    }
+    .indiebrew > .desc{
+        margin-right: 5vw;
+        font-size: 4.5vw;
+    }
+    .indiebrew{
+        position: relative;
+        top: 5vw;
+        left: 4vw;
+    }
+    .indiebrew > .lve{
+        margin-right: 0vw;
+        
+    }
+    .sitemap{
+        position: relative;
+        top: 10vw;
+        left: 4vw;
+        
+    }
+    .resources{
+        position: relative;
+        top: -18.5vw;
+        left: 52vw;
+        font-size: 4.5vw;
+    }
+    .company{
+        position: relative;
+        top: -15vw;
+        left: 4vw;
+    }
+    .portfolios{
+        position: relative;
+        top: -53.5vw;
+        left: 52vw;
+    }
+    #signup-bx{
+        position: relative;
+        top: -240vw;
+        left: 0vw;
+        height:400vw;
+    }
+    #signup-bx > .bx-img{
+        left: 7vw;
+        top:-5vw;
+    }
+    img[src="images/Hamburger Menu.svg"]{
+        z-index: 0;
+    }
+    #bck{
+        top: -17vw;
+        left: 50vw;
+        font-size: 0px;
+    }
+    .arrow{
+        left:-14vw;
+        
+    }
+    .bx-h1{
+        top:4vw;
+        left:7vw;
+        margin-right: 290vw;
+        font-size: 9vw;
+        font-weight: 600;
+    }
+    .list{
+        top: 10vw;
+        left: 13vw;
+    }
+    .list > p{
+        margin-right: 319vw;
+        font-size:4vw;
+    }
+    .input-boxes{
+        position: relative;
+        top:10vw;
+        left:5vw;
+        width:90vw;
+    }
+    .input-boxes > h1{
+        left:10vw;
+        margin-right:10vw;
+    }
+    label[for="email"],
+    label[for="name"],
+    label[for="password"],
+    input[id="email"],
+    input[id="name"],
+    input[id="password"]{
+        left:10vw;
+    }
+    input[id="email"],
+    input[id="name"],
+    input[id="password"]{
+        width:70vw;
+    }
+    #check{
+        left:10vw;
+        top: 11.5vw;
+    }
+    .input-boxes > p{
+        top: 6vw;
+        left: 19vw;
+        margin-right: 25vw;
+    }
+    #etxt3{
+        left:10vw;
+    }
+    #etxt4{
+        left:10vw;
+    }
+    #signupbx-btn{
+        width: 80vw;
+        left: 5vw;
+        top: 6vw;
+    }
+    footer{
+        height: 10vw;
+    }
+    #thanks-bx{
+        top: -300vw;
+        left:-140vw;
+    }
+    #thanks-bx > div > h3{
+        font-size: 5.6vw;
+        
+    }
+    #thanks-bx > div > P{
+        font-size: 6vw;
+    }
+    #thanks-bx > div > #clr-btn{
+        left:25vw;
+    }
+    #thanks-bx > div{
+        top:-25vw;
+        position: relative;
+    }
+}
+@media screen and (min-width:361px) and (max-width:399px) {
+    html,body{
+        overflow-x: hidden;
+        
+    }
+    .section1{
+        display:block;
+        position: relative;
+        top: -13vw;
+        left:0vw;
+    }
+    img[src="images/Logo.svg"]{
+        position: relative;
+        top: 10vw;
+        left: 5vw;
+    }
+    img[src="images/Hamburger Menu.svg"]{
+        position: relative;
+        top: 10vw;
+        left: 75vw;
+        height:10vw;
+        width:10vw;
+        visibility: visible;
+        z-index: 1;
+    }
+    img[src="images/Feed Mockup.png"]{
+        position: relative;
+        top: -96vw;
+        left: 6vw;
+        height: 30%;
+        width: 80%;
+    }
+    .section1 > h1{
+        position: relative;
+        top: 72vw;
+        left: 3vw;
+        font-size: 14vw;
+        font-weight: 600;
+        line-height: 13vw;
+    }
+    .section1 > .p1{
+        position: relative;
+        top:75vw;
+        left: 4vw;
+        margin-right: 6vw;
+        font-size:4.6vw;
+        letter-spacing: 0vw;
+    }
+    #btn{
+        visibility: hidden;
+        position: relative;
+        top: 0vw;
+        left: 0vw;
+    }
+    #btn2{
+        position: relative;
+        top:78vw;
+        left: 4vw;
+    }
+    img[src="images/User Avatars.svg"]{
+        position:relative;
+        top:82vw;
+        left: 4vw;
+    }
+    .p2{
+        position: relative;
+        left: 5vw;
+        top: 84vw;
+        font-size: 4vw;
+        margin-right: 15vw;
+    }
+    .section2{
+        display: block;
+        height:0vw;
+        left:32vw;
+    }
+    img[src="images/Social Media Icons.png"]{
+        position: relative;
+        top: -70vw;
         left: 5vw;
         height: 45vw;
         width: 88vw;
@@ -766,6 +1040,7 @@ img[src="images/Hamburger Menu.svg"]{
         position: relative;
     }
 }
+
 @media screen and (min-width:400px) and (max-width:499px){
     html,body{
         overflow-x: hidden;
